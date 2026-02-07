@@ -25,6 +25,18 @@
     <SolidColorBrush x:Key="Importance-High" Color="#FFFFA400"/>
     <SolidColorBrush x:Key="Importance-Urgent" Color="#FFBF0000"/>
 
+    <SolidColorBrush x:Key="Button-Complete" Color="#FF00FF56"/>
+    <SolidColorBrush x:Key="Button-Complete-Over" Color="#FF00A738"/>
+    <SolidColorBrush x:Key="Button-Complete-Click" Color="#FF003712"/>
+    
+    <SolidColorBrush x:Key="Button-Edit" Color="#FFFFA400"/>
+    <SolidColorBrush x:Key="Button-Edit-Over" Color="#FFFFA400"/>
+    <SolidColorBrush x:Key="Button-Edit-Click" Color="#FFFFA400"/>
+    
+    <SolidColorBrush x:Key="Button-Delete" Color="#FFBF0000"/>
+    <SolidColorBrush x:Key="Button-Delete-Over" Color="#FFBF0000"/>
+    <SolidColorBrush x:Key="Button-Delete-Click" Color="#FFBF0000"/>
+
     <!-- Task-Progress -->
     <SolidColorBrush x:Key="Progress-InProgress" Color="#FF00A7FF"/>
     <SolidColorBrush x:Key="Progress-Completed" Color="#FF00FF56"/>
@@ -32,4 +44,8 @@
     <SolidColorBrush x:Key="Progress-Late" Color="#FFFFD07C"/>
     <SolidColorBrush x:Key="Progress-Archived" Color="#FF353535"/>
     <SolidColorBrush x:Key="Progress-Deleted" Color="#FFBF0000"/>
+
+    <SolidColorBrush x:Key="Nav-Default" Color="Transparent"/>
+    <SolidColorBrush x:Key="Nav-Over" Color="#FF153244"/>
+    <SolidColorBrush x:Key="Nav-Click" Color="#FF153244"/>
 </ResourceDictionary>
